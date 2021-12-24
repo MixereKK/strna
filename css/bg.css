@@ -33,9 +33,7 @@ p {
 }
 
 .logo img {
-	width: 3445px; /* Change image size for mobile */
-	-webkit-animation-name: logo;
-	        animation-name: logo;
+	width: 3345px; /* Change image size for mobile */
 	-webkit-animation-duration: 5s;
 	        animation-duration: 5s;
 	-webkit-animation-iteration-count: infinite;
