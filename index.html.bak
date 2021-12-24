@@ -37,19 +37,19 @@
 		<script src="particles.js"></script>
 
 		<div class="items">
-			<a href="?/Regulamin" class="item forum"> <i class="fa fa-book-open fa-4x" alt="Forum icon" style="color:#ffffff"></i>
+			<a href="http://pvpplay.pl/regulamin" class="item forum"> <i class="fa fa-book-open fa-4x" alt="Forum icon" style="color:#ffffff"></i>
 				<div>
 					<p class="title">Regulamin</p>
 				</div>
 			</a>
 			
-			<a href="/Tryby" class="item store"> <i class="fa fa-shopping-cart fa-4x" alt="Store icon" style="color:#ffffff"></i>
+			<a href="http://pvpplay.pl/tryby" class="item store"> <i class="fa fa-shopping-cart fa-4x" alt="Store icon" style="color:#ffffff"></i>
 				<div>
 				<p class="title">Tryby</p>
 				</div>
 			</a>
 			
-			<a href="https://pvpplay.pl/DC" class="item forums"> <i class="fab fa-discord fa-4x" alt="Discord icon" style="color:#ffffff"></i>
+			<a href="https://discord.gg/AxFBCARb" class="item forums"> <i class="fab fa-discord fa-4x" alt="Discord icon" style="color:#ffffff"></i>
 				<div>
 					<p class="title">Discord</p>
 				</div>
